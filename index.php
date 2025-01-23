@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aprendiendo php moderno</title>
+    <link rel="shortcut icon" href="./assets/img/php.png" type="image/x-icon">
 
     <link rel="stylesheet" href="assets/style.css">
     <link rel="stylesheet" href="assets/code-format/styles/atom-one-dark.min.css">

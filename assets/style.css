@@ -84,3 +84,16 @@ code {
     box-shadow: 0 0 10px 0 #0009;
     font-family: 'Cascadia-code', 'Times New Roman', Times, serif;
 }
+
+@media (width <= 500px) {
+    main{
+        width: 100%;
+        padding: 0 20px;
+    }
+}
+
+@media (width <= 400px) {
+    body{
+        font-size: 17px;
+    }
+}
