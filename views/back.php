@@ -1,0 +1,1 @@
+<a class="back" href="?view=links">⬅ regresar</a>

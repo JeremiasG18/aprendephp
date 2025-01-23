@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Cascadia-code';
+    src: url('./Cascadia.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./OpenSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./OpenSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+}
