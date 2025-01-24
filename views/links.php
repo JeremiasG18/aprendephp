@@ -21,5 +21,8 @@
 
     <a href="?view=fnaymp" title="Función array_map()">Función array_map()</a>
     <a href="?view=fnayfr" title="Función array_filter()">Función array_filter()</a>
+    <a href="?view=fnayre" title="Función array_reduce()">Función array_reduce()</a>
+    <a href="?view=fnut" title="Función usort()">Función usort()</a>
+    <a href="?view=fnayuf" title="Función array_udiff()">Función array_udiff()</a>
 
 </div>
