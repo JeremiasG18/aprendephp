@@ -18,7 +18,7 @@
     
         <?php
 
-            $lista_blanca = ['wip', 'links', 'wic', 'progfun', 'inmut', 'recurs', 'fnfstcls', 'fnosr', 'fnarrow', 'cveuse', 'closure', 'cllbck', 'fnpipe', 'fncpn', 'mitn', 'fnaymp'];
+            $lista_blanca = ['wip', 'links', 'wic', 'progfun', 'inmut', 'recurs', 'fnfstcls', 'fnosr', 'fnarrow', 'cveuse', 'closure', 'cllbck', 'fnpipe', 'fncpn', 'mitn', 'fnaymp', 'fnayfr'];
 
             if (count($_GET) > 0 && array_key_exists('view', $_GET)){
                 if (in_array($_GET['view'], $lista_blanca)) {

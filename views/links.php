@@ -20,5 +20,6 @@
     <h3>Funciones de Arrays con Programación Funcional</h3>
 
     <a href="?view=fnaymp" title="Función array_map()">Función array_map()</a>
+    <a href="?view=fnayfr" title="Función array_filter()">Función array_filter()</a>
 
 </div>
