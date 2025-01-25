@@ -2,7 +2,7 @@
     <a href="?view=wip" title="¿Que es PHP?">¿Que es PHP?</a>
     <a href="?view=wic" title="¿Que es PHP?">¿Que es una constante?</a>
 
-    <h3>Programación funcional</h3>
+    <h2>Programación funcional</h2>
 
     <a href="?view=progfun" title="¿Qué es una funcion pura?">¿Qué es una función pura?</a>
     <a href="?view=recurs" title="¿Qué es la recursividad?">¿Qué es la recursividad?</a>
@@ -17,12 +17,15 @@
     <a href="?view=fncpn" title="¿Qué es la Composición de funciones?">¿Qué es la Composición de funciones?</a>
     <a href="?view=mitn" title="¿Qué es la Memoization?">¿Qué es la Memoization?</a>
 
-    <h3>Funciones de Arrays con Programación Funcional</h3>
+    <h2>Funciones de Arrays con Programación Funcional</h2>
 
     <a href="?view=fnaymp" title="Función array_map()">Función array_map()</a>
     <a href="?view=fnayfr" title="Función array_filter()">Función array_filter()</a>
     <a href="?view=fnayre" title="Función array_reduce()">Función array_reduce()</a>
     <a href="?view=fnut" title="Función usort()">Función usort()</a>
     <a href="?view=fnayuf" title="Función array_udiff()">Función array_udiff()</a>
+    <a href="?view=fnaywk" title="Función array_walk()">Función array_walk()</a>
+
+    <h2>Introducción a Patrones de Diseño</h2>
 
 </div>
