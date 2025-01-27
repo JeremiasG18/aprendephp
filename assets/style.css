@@ -35,7 +35,7 @@ h3{
     padding: 20px 0 10px 0;
 }
 
-ul>li ,p{
+ul>li, ol>li ,p{
     font-size: 0.94em;
     padding: 10px;
     line-height: 1.5em;
@@ -92,6 +92,11 @@ code {
     border-radius: 5px;
     box-shadow: 0 0 10px 0 #0009;
     font-family: 'Cascadia-code', 'Times New Roman', Times, serif;
+}
+
+img{
+    width:100%; 
+    padding:10px 0;
 }
 
 @media (width <= 500px) {

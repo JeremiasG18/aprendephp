@@ -78,7 +78,7 @@
         Finalmente, se crean objetos de cada método de pago y se utiliza <b>PaymentContext</b> para ejecutar la estrategia correspondiente, permitiendo cambiar el método de pago sin modificar la estructura del código.
     </p>
 
-    <img src="./assets/img/strategy.png" alt="patron de comportamiento -> strategy" style="width:100%; padding:10px 0;">
+    <img src="./assets/img/strategy.png" alt="patron de comportamiento -> strategy">
 
     <p>
         <b>IStrategy (Interfaz)</b> -> IStrategy es una interfaz que define el método Execute(). Cualquier estrategia concreta debe implementar esta interfaz.
