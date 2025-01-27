@@ -28,4 +28,14 @@
 
     <h2>Introducción a Patrones de Diseño</h2>
 
+    <p>
+        Los patrones de diseño son soluciones reutilizables a problemas comunes en el diseño de software. Son estructuras probadas y documentadas que ayudan a los desarrolladores a escribir código más eficiente, organizado y mantenible. No son fragmentos de código listos para copiar y pegar, sino guías para estructurar soluciones en diferentes situaciones.
+    </p>
+
+    <a href="?view=pds" title="Patrón de Diseño Comportamiento - Strategy">Patrón de Diseño Comportamiento - Strategy</a>
+    <a href="?view=pdd" title="Patrón de Diseño Estructural - Decorator">Patrón de Diseño Estructural - Decorator</a>
+    <a href="?view=pdfm" title="Patrón de Diseño Creacional - Factory Method">Patrón de Diseño Creacional - Factory Method</a>
+
+    <h2>Solicitudes HTTP</h2>
+
 </div>
