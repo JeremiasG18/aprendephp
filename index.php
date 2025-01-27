@@ -14,6 +14,7 @@
 <body>
 
     <main>
+        
         <h1>Aprendiendo php</h1>
     
         <?php
@@ -33,7 +34,6 @@
             }else{
                 require 'views/links.php';
             }
-
         
         ?>
     
